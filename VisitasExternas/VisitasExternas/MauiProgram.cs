@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 
+
+// comentario do matheuuus
 namespace VisitasExternas
 {
     public static class MauiProgram
