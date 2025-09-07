@@ -70,12 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -86,8 +82,7 @@
               "RelativeToolTip": "VisitasExternas\\MainPage.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAywC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:32:04.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:32:04.845Z"
             },
             {
               "$type": "Document",
@@ -99,8 +94,7 @@
               "RelativeToolTip": "VisitasExternas\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:32:02.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:32:02.225Z"
             },
             {
               "$type": "Document",
@@ -112,8 +106,7 @@
               "RelativeToolTip": "VisitasExternas\\Services\\VisitaService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:09:49.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:09:49.682Z"
             },
             {
               "$type": "Document",
@@ -123,7 +116,7 @@
               "RelativeDocumentMoniker": "VisitasExternas\\Services\\DatabaseService.cs",
               "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\DatabaseService.cs",
               "RelativeToolTip": "VisitasExternas\\Services\\DatabaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T17:46:38.053Z",
               "EditorCaption": ""
@@ -138,8 +131,7 @@
               "RelativeToolTip": "VisitasExternas\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:44:43.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:44:43.73Z"
             },
             {
               "$type": "Document",
@@ -151,8 +143,7 @@
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:51:21.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:51:21.953Z"
             },
             {
               "$type": "Document",
@@ -164,8 +155,7 @@
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:46:19.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:46:19.648Z"
             },
             {
               "$type": "Document",
@@ -177,8 +167,7 @@
               "RelativeToolTip": "VisitasExternas\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T01:00:17.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T01:00:17.91Z"
             },
             {
               "$type": "Document",
@@ -190,21 +179,19 @@
               "RelativeToolTip": "VisitasExternas\\Models\\Visita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:40:52.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T17:40:52.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VisitasExternas",
+              "Title": "VisitasExternas.csproj",
               "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
               "RelativeDocumentMoniker": "VisitasExternas\\VisitasExternas.csproj",
               "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
               "RelativeToolTip": "VisitasExternas\\VisitasExternas.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T17:37:25.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T17:37:25.268Z"
             },
             {
               "$type": "Document",
@@ -216,8 +203,7 @@
               "RelativeToolTip": "VisitasExternas\\Repositories\\VisitaRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:51:20.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T17:51:20.908Z"
             },
             {
               "$type": "Document",
@@ -229,8 +215,7 @@
               "RelativeToolTip": "VisitasExternas\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:44:42.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:44:42.905Z"
             },
             {
               "$type": "Document",
@@ -242,8 +227,7 @@
               "RelativeToolTip": "VisitasExternas\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:44:50.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:44:50.356Z"
             },
             {
               "$type": "Document",
@@ -265,8 +249,11 @@
               "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-05T18:45:46.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:45:46.151Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
