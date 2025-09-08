@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\",
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjetoVisita\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -44,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "visitasexternas.projects.v9.bin",
-              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
               "RelativeDocumentMoniker": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
-              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
               "RelativeToolTip": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.projects.v9.bin",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-07T22:28:06.048Z"
@@ -55,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "visitasexternas.metadata.v9.bin",
-              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
               "RelativeDocumentMoniker": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
-              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
               "RelativeToolTip": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.metadata.v9.bin",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-07T22:28:05.242Z"
@@ -66,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "visitasexternas.strings.v9.bin",
-              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
               "RelativeDocumentMoniker": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
-              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
               "RelativeToolTip": "VisitasExternas\\.vs\\ProjectEvaluation\\visitasexternas.strings.v9.bin",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-07T22:28:06.81Z"
@@ -77,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VSWorkspaceState.json",
-              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\VSWorkspaceState.json",
               "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
-              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\VSWorkspaceState.json",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\VSWorkspaceState.json",
               "RelativeToolTip": ".vs\\VSWorkspaceState.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DocumentLayout.json",
-              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json",
               "RelativeDocumentMoniker": ".vs\\ProjetoVisita\\v17\\DocumentLayout.json",
-              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjetoVisita\\.vs\\ProjetoVisita\\v17\\DocumentLayout.json",
               "RelativeToolTip": ".vs\\ProjetoVisita\\v17\\DocumentLayout.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

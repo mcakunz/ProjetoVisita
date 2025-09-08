@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisitasExternas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ae615bff210820d873670af49ad0785798e6e5e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+73c0a039eb9b33162be10d882b81c2a4cd136dd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisitasExternas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisitasExternas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
