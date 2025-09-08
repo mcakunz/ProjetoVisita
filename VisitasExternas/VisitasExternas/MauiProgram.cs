@@ -3,7 +3,7 @@ using VisitasExternas.Pages; // Adicionar using para Pages
 using VisitasExternas.Services; // Adicionar using para Services
 using VisitasExternas.Repositories; // Adicionar using para Repositories
 using VisitasExternas.ViewModels; // Adicionar using para ViewModels
-//teste maroto nunm 2
+
 namespace VisitasExternas
 {
     public static class MauiProgram
