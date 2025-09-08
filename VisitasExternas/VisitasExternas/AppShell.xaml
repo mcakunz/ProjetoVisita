@@ -4,11 +4,23 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:VisitasExternas"
+    xmlns:pages="clr-namespace:VisitasExternas.Pages"
     Title="VisitasExternas">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <Tab Title="Registrar" Icon="register_icon.png">
+            <ShellContent
+                Title="Registro"
+                ContentTemplate="{DataTemplate local:MainPage}"
+                Route="MainPage" />
+        </Tab>
+
+        <Tab Title="Histórico" Icon="history_icon.png">
+            <ShellContent
+                Title="Histórico"
+                ContentTemplate="{DataTemplate pages:HistoricoPage}"
+                Route="HistoricoPage" />
+        </Tab>
+    </TabBar>
 
 </Shell>

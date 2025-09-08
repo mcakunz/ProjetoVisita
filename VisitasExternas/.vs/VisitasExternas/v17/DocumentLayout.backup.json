@@ -1,66 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\",
+  "WorkspaceRootPath": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\visitasexternas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\visitasexternas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\repositories\\visitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\repositories\\visitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
-      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|d:\\webmobile\\projetovisita\\visitasexternas\\visitasexternas\\services\\visitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\pages\\historicopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\pages\\historicopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\pages\\historicopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\pages\\historicopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\viewmodels\\historicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\viewmodels\\historicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\services\\visitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\services\\visitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\repositories\\visitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\repositories\\visitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\visitasexternas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\visitasexternas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|c:\\users\\anderson camini\\source\\repos\\mcakunz\\projetovisita\\visitasexternas\\visitasexternas\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{3529AC7D-F40A-4DE1-A443-79B585E8D8C9}|VisitasExternas\\VisitasExternas.csproj|solutionrelative:visitasexternas\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,88 +86,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\MainPage.xaml.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml.cs",
-              "RelativeToolTip": "VisitasExternas\\MainPage.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAywC4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:32:04.845Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml",
-              "RelativeDocumentMoniker": "VisitasExternas\\MainPage.xaml",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml",
-              "RelativeToolTip": "VisitasExternas\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HistoricoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Pages\\HistoricoPage.xaml",
+              "RelativeDocumentMoniker": "VisitasExternas\\Pages\\HistoricoPage.xaml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Pages\\HistoricoPage.xaml",
+              "RelativeToolTip": "VisitasExternas\\Pages\\HistoricoPage.xaml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:32:02.225Z"
+              "WhenOpened": "2025-09-08T01:08:22.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "VisitaService.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\VisitaService.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\Services\\VisitaService.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\VisitaService.cs",
-              "RelativeToolTip": "VisitasExternas\\Services\\VisitaService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HistoricoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\ViewModels\\HistoricoViewModel.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\ViewModels\\HistoricoViewModel.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\ViewModels\\HistoricoViewModel.cs",
+              "RelativeToolTip": "VisitasExternas\\ViewModels\\HistoricoViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:09:49.682Z"
+              "WhenOpened": "2025-09-08T01:06:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\GlobalXmlns.cs",
+              "RelativeToolTip": "VisitasExternas\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T23:53:34.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MauiProgram.cs",
+              "RelativeToolTip": "VisitasExternas\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:00:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoricoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Pages\\HistoricoPage.xaml.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\Pages\\HistoricoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Pages\\HistoricoPage.xaml.cs",
+              "RelativeToolTip": "VisitasExternas\\Pages\\HistoricoPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:08:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\AppShell.xaml",
+              "RelativeDocumentMoniker": "VisitasExternas\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\AppShell.xaml",
+              "RelativeToolTip": "VisitasExternas\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:44:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml",
+              "RelativeDocumentMoniker": "VisitasExternas\\App.xaml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml",
+              "RelativeToolTip": "VisitasExternas\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:44:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Repositories\\VisitaRepository.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\Repositories\\VisitaRepository.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Repositories\\VisitaRepository.cs",
+              "RelativeToolTip": "VisitasExternas\\Repositories\\VisitaRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:51:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DatabaseService.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "VisitasExternas\\Services\\DatabaseService.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\DatabaseService.cs",
               "RelativeToolTip": "VisitasExternas\\Services\\DatabaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T17:46:38.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml",
-              "RelativeDocumentMoniker": "VisitasExternas\\App.xaml",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml",
-              "RelativeToolTip": "VisitasExternas\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:44:43.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "VisitaService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\VisitaService.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\Services\\VisitaService.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Services\\VisitaService.cs",
+              "RelativeToolTip": "VisitasExternas\\Services\\VisitaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:51:21.953Z"
+              "WhenOpened": "2025-09-05T18:09:49.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "Visita.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Models\\Visita.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\Models\\Visita.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Models\\Visita.cs",
+              "RelativeToolTip": "VisitasExternas\\Models\\Visita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:40:52.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "VisitasExternas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml",
+              "RelativeToolTip": "VisitasExternas\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:32:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "VisitasExternas\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainActivity.cs",
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,35 +266,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\MauiProgram.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MauiProgram.cs",
-              "RelativeToolTip": "VisitasExternas\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T01:00:17.91Z"
+              "WhenOpened": "2025-09-05T18:51:21.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Visita.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Models\\Visita.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\Models\\Visita.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Models\\Visita.cs",
-              "RelativeToolTip": "VisitasExternas\\Models\\Visita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "VisitasExternas\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\MainPage.xaml.cs",
+              "RelativeToolTip": "VisitasExternas\\MainPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:40:52.625Z"
+              "WhenOpened": "2025-09-05T18:32:04.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "VisitasExternas.csproj",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
               "RelativeDocumentMoniker": "VisitasExternas\\VisitasExternas.csproj",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\VisitasExternas.csproj",
               "RelativeToolTip": "VisitasExternas\\VisitasExternas.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -195,35 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VisitaRepository.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Repositories\\VisitaRepository.cs",
-              "RelativeDocumentMoniker": "VisitasExternas\\Repositories\\VisitaRepository.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Repositories\\VisitaRepository.cs",
-              "RelativeToolTip": "VisitasExternas\\Repositories\\VisitaRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:51:20.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\AppShell.xaml",
-              "RelativeDocumentMoniker": "VisitasExternas\\AppShell.xaml",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\AppShell.xaml",
-              "RelativeToolTip": "VisitasExternas\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:44:42.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml.cs",
               "RelativeDocumentMoniker": "VisitasExternas\\App.xaml.cs",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\App.xaml.cs",
               "RelativeToolTip": "VisitasExternas\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,29 +314,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-09-05T18:45:22.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "D:\\WebMobile\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Anderson Camini\\source\\repos\\mcakunz\\ProjetoVisita\\VisitasExternas\\VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "VisitasExternas\\Platforms\\Android\\AndroidManifest.xml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-09-05T18:45:46.151Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

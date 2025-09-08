@@ -14,15 +14,7 @@ namespace VisitasExternas.Services
 
         public DatabaseService()
         {
-            var projectDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\..\.."));
-
-
-            _dbPath = Path.Combine(projectDir, "Data", "visitas.db3");
-
-            Console.WriteLine($"Banco será salvo em: {_dbPath}");
-
-            Directory.CreateDirectory(Path.GetDirectoryName(_dbPath));
-
+            _dbPath = Path.Combine(FileSystem.AppDataDirectory, "visitas.db3");
             _database = new SQLiteConnection(_dbPath);
             _database.CreateTable<Models.Visita>();
         }
